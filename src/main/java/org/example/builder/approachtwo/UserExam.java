@@ -31,7 +31,7 @@ public class UserExam {
         return new UserExamBuilder();
     }
 
-    public class UserExamBuilder {
+    public static class UserExamBuilder {
         public int getEnglishMarks() {
             return englishMarks;
         }
