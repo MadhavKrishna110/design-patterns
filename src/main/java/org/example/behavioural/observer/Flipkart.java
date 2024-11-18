@@ -15,7 +15,7 @@ public class Flipkart {
 
     public void notify(Events events,Order order){
         for(Subscriber subscriber: subscribers.get(events)){
-            subscriber.listen(order);
+            subscriber.listen(events,order);
         }
     }
     public void placeOrder(Order order){
