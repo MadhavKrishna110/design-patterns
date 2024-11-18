@@ -5,20 +5,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5a4e18f-a171-4c0a-968d-e98ff5633293" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/Flipkart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/PaymentGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/PaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/RazorpayPGAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/payu/PayUGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/payu/PayUPaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/razorpay/RazorpayGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/BlueCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/ChocolateScoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/IceCreamCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/OrangeCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/VanillaScoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after1/BikePathCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after1/CarPathCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after1/GoogleMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after1/PathCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after1/PathCalculationStrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after1/TransportMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after1/WalkPathCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after2/BikePathCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after2/CarPathCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after2/GoogleMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after2/PathCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after2/PathCalculationStrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after2/PathCalculationStrategyRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after2/TransportMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after2/WalkPathCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/before/GoogleMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/before/TransportMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/after/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/after/BulletRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/after/BulletStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/after/BulletType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/after/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/after/FlyingBullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/before/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/before/BulletStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/before/BulletType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/approachone/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/approachone/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/approachone/UserExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/approachone/UserExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/approachone/UserExamParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/approachone/UserExamParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/approachtwo/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/approachtwo/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/approachtwo/UserExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/approachtwo/UserExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/Theme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/Theme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/ThemeComponentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/ThemeComponentFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/dark/DarkButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/dark/DarkButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/dark/DarkComponentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/dark/DarkComponentFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/dark/DarkMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/dark/DarkMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/dark/DarkTheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/dark/DarkTheme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/primary/PrimaryButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/primary/PrimaryButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/primary/PrimaryComponentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/primary/PrimaryComponentFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/primary/PrimaryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/primary/PrimaryMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/abstractfactory/primary/PrimaryTheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/abstractfactory/primary/PrimaryTheme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/simplefactory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/SalaryDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/simplefactory/SalaryDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/TaxCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/simplefactory/TaxCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/TaxCalculatorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/simplefactory/TaxCalculatorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/TaxRegime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/simplefactory/TaxRegime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/algorithm/NewTaxAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/simplefactory/algorithm/NewTaxAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/algorithm/OldTaxAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/simplefactory/algorithm/OldTaxAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/algorithm/TaxAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/simplefactory/algorithm/TaxAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prototype/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/prototype/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prototype/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/prototype/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prototype/Cloneable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/prototype/Cloneable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prototype/Crow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/prototype/Crow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/prototype/Sparrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/prototype/Sparrow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/impone/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/impone/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/impone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/impone/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/impone/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/impone/Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/imptwo/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/imptwo/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/imptwo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/imptwo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/imptwo/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/imptwo/Random.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +101,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/madhavkrishna/Documents/development/designing-systems/src/main/java/org/example/builder/approachtwo&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/madhavkrishna/Documents/development/designing-systems/src/main/java/org/example/behavioural/strategy/after2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after2" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/behavioural/strategy/after1" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/after" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/builder/approachtwo" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/singleton/imptwo" />
     </key>
@@ -81,29 +137,34 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/singleton/impone/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/creational/singleton/impone/Main.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/singleton/impone/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/creational/singleton/impone/Main.java</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/builder/approachone/Client.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/creational/builder/approachone/Client.java</url>
           <line>9</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/builder/approachone/Client.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/creational/builder/approachone/Client.java</url>
           <line>11</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/prototype/Client.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/creational/prototype/Client.java</url>
           <line>17</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/structural/flyweight/after/Client.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
