@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5a4e18f-a171-4c0a-968d-e98ff5633293" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/SalaryDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/TaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/TaxCalculatorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/TaxRegime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/algorithm/NewTaxAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/algorithm/OldTaxAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/simplefactory/algorithm/TaxAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prototype/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prototype/Cloneable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prototype/Crow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prototype/Sparrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/singleton/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/approachtwo/UserExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/builder/approachtwo/UserExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/Flipkart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/PaymentGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/RazorpayPGAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/payu/PayUGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/payu/PayUPaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/razorpay/RazorpayGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/BlueCone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/ChocolateScoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/IceCreamCone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/OrangeCone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/icecream/VanillaScoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -42,7 +41,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2kmexQIOKoe8HTVc94O7meE0COE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
